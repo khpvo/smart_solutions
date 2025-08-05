@@ -1,6 +1,6 @@
 # smart_solutions
 
-`This is a fully functional frontend-only application with mock data that demonstrates all the key features from css and html!`
+`Frontend-only application with mock data that demonstrates all the key features from css and html!`
 
 ### The landing page is  beautiful design:
 
