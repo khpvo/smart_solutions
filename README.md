@@ -1,6 +1,8 @@
 # smart_solutions
 
-### The landing page is  beautiful design.
+`This is a fully functional frontend-only application with mock data that demonstrates all the key features from css and html!`
+
+### The landing page is  beautiful design:
 
 - Modern header with BusinessPro branding and purple accent buttons
 - Hero section with compelling "Transform Your Business with Smart Solutions" title
@@ -18,4 +20,6 @@
 ✅ Proper use of ShadCN UI components  
 ✅ Clean, professional appearance  
 
-`This is a fully functional frontend-only application with mock data that demonstrates all the key features from css and html!`
+### Screenshot of the page:
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/khpvo/smart_solutions/blob/main/scr.png)
